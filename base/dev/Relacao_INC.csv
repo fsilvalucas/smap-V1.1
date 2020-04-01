@@ -1,0 +1,82 @@
+nome;bacia;Posto;Depende de;deltaT
+camargos;Grande;1;;0
+itutinga;Grande;2;1;0
+funil MG;Grande;211;1;0
+furnas;Grande;6;211;0
+m moraes;Grande;7;6;0
+l c barreto;Grande;8;7;0
+jaguara;Grande;9;8;0
+igarapava;Grande;10;9;0
+volta grande;Grande;11;10;0
+porto colombia;Grande;12;11;0
+caconde;Grande;14;;0
+euclides da cunha;Grande;15;14;0
+limoeiro;Grande;16;15;0
+marimbondo;Grande;17;16;0
+marimbondo;Grande;17;12;0
+agua vermelha;Grande;18;17;0
+Santa Clara PR;Iguacu;71;;0
+fundao;Iguacu;72;71;0
+jordao;Iguacu;73;72;0
+munhoz;Iguacu;74;;0
+segredo;Iguacu;76;74;0
+salto santiago;Iguacu;77;76;0
+salto santiago;Iguacu;77;73;0
+salto osorio;Iguacu;78;77;0
+salto caxias;Iguacu;222;78;0
+jurumirim;Paranapanema;47;;0
+piraju;Paranapanema;48;47;0
+chavantes;Paranapanema;49;48;0
+ourinhos;Paranapanema;249;49;0
+salto grande;Paranapanema;50;249;0
+canoas ii;Paranapanema;51;50;0
+canoas ii;Paranapanema;52;51;0
+maua;Paranapanema;57;;0
+capivara;Paranapanema;61;51;0
+capivara;Paranapanema;61;57;0
+taquarucu;Paranapanema;62;61;0
+rosana;Paranapanema;63;62;0
+batalha;Paranaiba;22;;0
+serra do facao;Paranaiba;251;22;0
+emborcacao;Paranaiba;24;251;0
+corumba iv;Paranaiba;205;;0
+corumba iii;Paranaiba;23;205;0
+corumba i;Paranaiba;209;23;0
+nova ponte;Paranaiba;25;;0
+miranda;Paranaiba;206;25;0
+capim branco i;Paranaiba;207;206;0
+capim branco ii;Paranaiba;28;207;0
+itumbiara;Paranaiba;31;24;0
+itumbiara;Paranaiba;31;209;0
+itumbiara;Paranaiba;31;28;0
+cachoeira dourada;Paranaiba;32;31;0
+sao simao;Paranaiba;33;32;0
+itaipu incremental;Itaipu;266;;0
+serra da mesa;Tocantins;270;;0
+retiro baixo;SaoFrancisco;155;;0
+tres marias;SaoFrancisco;156;155;0
+queimado;SaoFrancisco;158;;0
+garibaldi;Uruguai;89;;0
+campos novos;Uruguai;216;89;0
+barra grande;Uruguai;215;;0
+machadinho;Uruguai;217;215;0
+machadinho;Uruguai;217;89;0
+ita;Uruguai;92;217;0
+passo fundo;Uruguai;93;;0
+monjolinho;Uruguai;220;93;0
+foz chapeco;Uruguai;94;220;0
+foz chapeco;Uruguai;94;92;0
+quebra queixo;Uruguai;286;;0
+sao jose;Uruguai;102;;0
+passo sao joao;Uruguai;103;102;0
+ponte nova;Tiete;160;;0
+bill e pedras;Tiete;119;;0
+guarapiranga;Tiete;117;;0
+edgar de souza;Tiete;161;119;0
+edgar de souza;Tiete;161;117;0
+edgar de souza;Tiete;161;160;0
+barra bonita;Tiete;237;161;0
+bariri;Tiete;238;237;0
+ibitinga;Tiete;239;238;0
+promissao;Tiete;240;239;0
+nova avanhandava;Tiete;242;240;0

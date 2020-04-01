@@ -1,0 +1,4 @@
+                 SANTA CLARA-PR               FUNDÃO               JORDÃO         G. B. MUNHOZ              SEGREDO       SALTO SANTIAGO         SALTO OSORIO         SALTO CAXIAS       SEGREDO+JORDAO
+                            071                  072                  073                  074                  076                  077                  078                  222                  976
+                          TOTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL
+29/02/2020                17.40                 1.35                 5.42               412.09                27.76                32.58                12.88                80.81                 0.00

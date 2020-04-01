@@ -1,0 +1,4 @@
+                      GARIBALDI                  ITÁ          PASSO FUNDO          FOZ CHAPECO             SAO JOSE       PASSO SAO JOAO         BARRA GRANDE         CAMPOS NOVOS           MACHADINHO           MONJOLINHO        QUEBRA QUEIXO
+                            089                  092                  093                  094                  102                  103                  215                  216                  217                  220                  286
+                    INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL                TOTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL                TOTAL
+29/02/2020               214.45               202.53                11.62               123.18                40.61                 1.56               117.82                21.21               153.79                 8.21                33.83

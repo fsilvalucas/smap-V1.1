@@ -1,0 +1,12 @@
+11                                                'Quantidade de bacias sub-modeladas
+AVERMELHA                                         'Agua Vermelha                                                                                       
+Camargos                                          'Camargos                                                                                            
+CAPESCURO                                         'Capao Escuro                                                                                        
+EDACUNHA                                          'Euclides da Cunha                                                                                   
+FUNIL MG                                          'Funil                                                                                               
+FURNAS                                            'Furnas                                                                                              
+MARIMBONDO                                        'Marimbondo                                                                                          
+PARAGUACU                                         'Paraguacu                                                                                           
+PASSAGEM                                          'Passagem                                                                                            
+PBUENOS                                           'Porto dos Buenos                                                                                    
+PCOLOMBIA                                         'Porto Colombia                                                                                      

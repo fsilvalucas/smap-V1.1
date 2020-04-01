@@ -1,0 +1,6 @@
+11/02/2020 ' data da rodada                               
+32         ' dia de inicialização do aquecimento do modelo
+12         ' número de dias de previsão                   
+46.05      ' ebin                                         
+110.06     ' supin                                        
+50.24      ' tuin                                         

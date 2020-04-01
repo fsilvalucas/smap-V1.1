@@ -1,0 +1,112 @@
+[24-03-2020 17:56:55] [BAT-SMAP] ONS-Operador Nacional Do Sistema Eletrico
+[24-03-2020 17:56:55] [BAT-SMAP] Modelo Computacional SMAP
+[24-03-2020 17:56:55] [BAT-SMAP] Versao: 2.0.4 Data: 14/05/2019
+[24-03-2020 17:56:55] [BAT-SMAP] Iniciando validacao da estrutura de pastas e integridade do programa
+[24-03-2020 17:56:55] [BAT-SMAP] Validacao da estrutura concluida com sucesso
+[24-03-2020 17:56:55] [BAT-SMAP] Iniciando validacao de arquivos de entrada
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Realizando validacao do arquivo bat.conf
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Arquivo bat.conf OK
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Realizando validacao do arquivo caso.txt
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Arquivo caso.txt OK
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de inicializacao
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Arquivos de inicializacao OK
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de parametros
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Arquivos de parametros OK
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Realizando validacao do arquivo modelos_precipitacao.txt
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Arquivo caso.txt OK
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de pontos de grade por modelo
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Arquivos de pontos de grade por modelo OK
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de precipitacao prevista
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Arquivos de precipitacao prevista OK
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de evapotranspiracao
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Arquivos de parametros OK
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de configuracao de postos
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Arquivos de configuracao de postos OK
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de postos pluviometricos
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Arquivos de postos pluviometricos OK
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de vazao verificada
+[24-03-2020 17:56:55] [BAT-SMAP] [VAL] Arquivos de vazao verificada OK
+[24-03-2020 17:56:55] [BAT-SMAP] Validacao dos arquivos de entrada concluida com sucesso
+[24-03-2020 17:56:57] [BAT-SMAP] Iniciando leitura de arquivos de configuracao
+[24-03-2020 17:56:57] [BAT-SMAP] Arquivos de modelos de precipitacao OK
+[24-03-2020 17:56:57] [BAT-SMAP] Arquivos de inicializacao OK
+[24-03-2020 17:56:57] [BAT-SMAP] Arquivos de parametros OK
+[24-03-2020 17:56:57] [BAT-SMAP] Arquivos de evotranspiracao OK
+[24-03-2020 17:56:57] [BAT-SMAP] Arquivos de postos pluviometricos OK
+[24-03-2020 17:56:57] [BAT-SMAP] Arquivos de modelos de precipitacao prevista OK
+[24-03-2020 17:56:57] [BAT-SMAP] Arquivos de precipitacao prevista OK
+[24-03-2020 17:56:57] [BAT-SMAP] Arquivos de chuva verificada OK
+[24-03-2020 17:56:57] [BAT-SMAP] Arquivos de configuracao vazao verfificada OK
+[24-03-2020 17:56:57] [BAT-SMAP] Leitura dos arquivos de entrada terminada com sucesso
+[24-03-2020 17:56:57] [BAT-SMAP] Progresso: 0/11 bacia(s) processada(s) em 1 segundo(s)
+[24-03-2020 17:57:00] [BAT-SMAP] Progresso: 0/11 bacia(s) processada(s) em 4 segundo(s)
+[24-03-2020 17:57:03] [BAT-SMAP] Progresso: 1/11 bacia(s) processada(s) em 7 segundo(s)
+[24-03-2020 17:57:06] [BAT-SMAP] Progresso: 2/11 bacia(s) processada(s) em 10 segundo(s)
+[24-03-2020 17:57:09] [BAT-SMAP] Progresso: 2/11 bacia(s) processada(s) em 13 segundo(s)
+[24-03-2020 17:57:12] [BAT-SMAP] Progresso: 3/11 bacia(s) processada(s) em 16 segundo(s)
+[24-03-2020 17:57:15] [BAT-SMAP] Progresso: 4/11 bacia(s) processada(s) em 19 segundo(s)
+[24-03-2020 17:57:18] [BAT-SMAP] Progresso: 4/11 bacia(s) processada(s) em 22 segundo(s)
+[24-03-2020 17:57:21] [BAT-SMAP] Progresso: 5/11 bacia(s) processada(s) em 25 segundo(s)
+[24-03-2020 17:57:24] [BAT-SMAP] Progresso: 6/11 bacia(s) processada(s) em 28 segundo(s)
+[24-03-2020 17:57:27] [BAT-SMAP] Progresso: 6/11 bacia(s) processada(s) em 31 segundo(s)
+[24-03-2020 17:57:30] [BAT-SMAP] Progresso: 7/11 bacia(s) processada(s) em 34 segundo(s)
+[24-03-2020 17:57:33] [BAT-SMAP] Progresso: 8/11 bacia(s) processada(s) em 37 segundo(s)
+[24-03-2020 17:57:36] [BAT-SMAP] Progresso: 8/11 bacia(s) processada(s) em 40 segundo(s)
+[24-03-2020 17:57:39] [BAT-SMAP] Progresso: 9/11 bacia(s) processada(s) em 43 segundo(s)
+[24-03-2020 17:57:42] [BAT-SMAP] Progresso: 10/11 bacia(s) processada(s) em 46 segundo(s)
+[24-03-2020 17:57:45] [BAT-SMAP] Progresso: 10/11 bacia(s) processada(s) em 49 segundo(s)
+[24-03-2020 17:57:48] [BAT-SMAP] Progresso: 11/11 bacia(s) processada(s) em 52.49 segundo(s)
+[24-03-2020 17:57:48] [BAT-SMAP] Status: Sucesso
+[24-03-2020 17:57:48] [BAT-SMAP] Finalizando programa
+[26-03-2020 14:09:49] [BAT-SMAP] ONS-Operador Nacional Do Sistema Eletrico
+[26-03-2020 14:09:49] [BAT-SMAP] Modelo Computacional SMAP
+[26-03-2020 14:09:49] [BAT-SMAP] Versao: 2.0.4 Data: 14/05/2019
+[26-03-2020 14:09:49] [BAT-SMAP] Iniciando validacao da estrutura de pastas e integridade do programa
+[26-03-2020 14:09:49] [BAT-SMAP] Validacao da estrutura concluida com sucesso
+[26-03-2020 14:09:49] [BAT-SMAP] Iniciando validacao de arquivos de entrada
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Realizando validacao do arquivo bat.conf
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Arquivo bat.conf OK
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Realizando validacao do arquivo caso.txt
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Arquivo caso.txt OK
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de inicializacao
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Arquivos de inicializacao OK
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de parametros
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Arquivos de parametros OK
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Realizando validacao do arquivo modelos_precipitacao.txt
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Arquivo caso.txt OK
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de pontos de grade por modelo
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Arquivos de pontos de grade por modelo OK
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de precipitacao prevista
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Arquivos de precipitacao prevista OK
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de evapotranspiracao
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Arquivos de parametros OK
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de configuracao de postos
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Arquivos de configuracao de postos OK
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de postos pluviometricos
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Arquivos de postos pluviometricos OK
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Realizando validacao dos arquivos de vazao verificada
+[26-03-2020 14:09:49] [BAT-SMAP] [VAL] Arquivos de vazao verificada OK
+[26-03-2020 14:09:49] [BAT-SMAP] Validacao dos arquivos de entrada concluida com sucesso
+[26-03-2020 14:09:50] [BAT-SMAP] Iniciando leitura de arquivos de configuracao
+[26-03-2020 14:09:50] [BAT-SMAP] Arquivos de modelos de precipitacao OK
+[26-03-2020 14:09:50] [BAT-SMAP] Arquivos de inicializacao OK
+[26-03-2020 14:09:50] [BAT-SMAP] Arquivos de parametros OK
+[26-03-2020 14:09:50] [BAT-SMAP] Arquivos de evotranspiracao OK
+[26-03-2020 14:09:50] [BAT-SMAP] Arquivos de postos pluviometricos OK
+[26-03-2020 14:09:50] [BAT-SMAP] Arquivos de modelos de precipitacao prevista OK
+[26-03-2020 14:09:50] [BAT-SMAP] Arquivos de precipitacao prevista OK
+[26-03-2020 14:09:50] [BAT-SMAP] Arquivos de chuva verificada OK
+[26-03-2020 14:09:50] [BAT-SMAP] Arquivos de configuracao vazao verfificada OK
+[26-03-2020 14:09:50] [BAT-SMAP] Leitura dos arquivos de entrada terminada com sucesso
+[26-03-2020 14:09:50] [BAT-SMAP] Progresso: 0/5 bacia(s) processada(s) em 1 segundo(s)
+[26-03-2020 14:09:53] [BAT-SMAP] Progresso: 0/5 bacia(s) processada(s) em 4 segundo(s)
+[26-03-2020 14:09:56] [BAT-SMAP] Progresso: 1/5 bacia(s) processada(s) em 7 segundo(s)
+[26-03-2020 14:09:59] [BAT-SMAP] Progresso: 2/5 bacia(s) processada(s) em 10 segundo(s)
+[26-03-2020 14:10:02] [BAT-SMAP] Progresso: 2/5 bacia(s) processada(s) em 13 segundo(s)
+[26-03-2020 14:10:05] [BAT-SMAP] Progresso: 3/5 bacia(s) processada(s) em 16 segundo(s)
+[26-03-2020 14:10:08] [BAT-SMAP] Progresso: 3/5 bacia(s) processada(s) em 19 segundo(s)
+[26-03-2020 14:10:11] [BAT-SMAP] Progresso: 4/5 bacia(s) processada(s) em 22 segundo(s)
+[26-03-2020 14:10:14] [BAT-SMAP] Progresso: 4/5 bacia(s) processada(s) em 25 segundo(s)
+[26-03-2020 14:10:17] [BAT-SMAP] Progresso: 5/5 bacia(s) processada(s) em 28.40 segundo(s)
+[26-03-2020 14:10:17] [BAT-SMAP] Status: Sucesso
+[26-03-2020 14:10:17] [BAT-SMAP] Finalizando programa

@@ -1,0 +1,9 @@
+8                                                 'Quantidade de bacias sub-modeladas
+BG                                                'Barra Grande                                                                                        
+CN                                                'Campos Novos                                                                                        
+FozChapeco                                        'Foz do Chapeco                                                                                      
+Ita                                               'Ita                                                                                                 
+Machadinho                                        'Machadinho                                                                                          
+Monjolinho                                        'Monjolinho                                                                                          
+QQueixo                                           'Quebra Queixo                                                                                       
+SJoao                                             'Passo Sao Joao                                                                                      

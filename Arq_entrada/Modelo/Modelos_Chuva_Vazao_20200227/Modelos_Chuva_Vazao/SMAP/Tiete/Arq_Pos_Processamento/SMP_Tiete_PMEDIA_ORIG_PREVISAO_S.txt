@@ -1,0 +1,4 @@
+                   GUARAPIRANGA        BILL E PEDRAS           PONTE NOVA    E. S. + PINHEIROS            B. BONITA               BARIRI             IBITINGA            PROMISSÃO       N. AVANHANDAVA
+                            117                  119                  160                  161                  237                  238                  239                  240                  242
+                    INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL
+29/02/2020                29.60                45.14                18.01               153.92               658.04                93.21               179.32               138.77                54.77

@@ -1,0 +1,1 @@
+grava_smap não foi debugado ou atualizado. Código de outra pessoa!

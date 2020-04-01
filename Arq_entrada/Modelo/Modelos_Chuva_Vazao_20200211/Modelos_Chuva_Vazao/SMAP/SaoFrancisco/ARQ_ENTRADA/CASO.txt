@@ -1,0 +1,6 @@
+5                                                 'Quantidade de bacias sub-modeladas
+QM                                                'Queimado SMAP                                                                                       
+RB-SMAP                                           'Retiro Baixo - SMAP                                                                                 
+SFR2                                              'Sao Francisco - SMAP                                                                                
+SRM2                                              'Sao Romao - SMAP                                                                                    
+TM-SMAP                                           'Três Marias - SMAP                                                                                  

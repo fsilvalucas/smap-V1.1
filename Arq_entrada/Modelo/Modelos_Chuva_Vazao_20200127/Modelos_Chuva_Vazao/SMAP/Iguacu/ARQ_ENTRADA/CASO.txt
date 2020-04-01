@@ -1,0 +1,6 @@
+5                                                 'Quantidade de bacias sub-modeladas
+FOA                                               'SMP - Foz do Areia                                                                                  
+JordSeg                                           'SMP - Jordao-Segredo                                                                                
+SCaxias                                           'SMP - Salto Caxias                                                                                  
+StaClara                                          'SMP - Santa Clara                                                                                   
+UVitoria                                          'SMP - Uniao da Vitoria                                                                              

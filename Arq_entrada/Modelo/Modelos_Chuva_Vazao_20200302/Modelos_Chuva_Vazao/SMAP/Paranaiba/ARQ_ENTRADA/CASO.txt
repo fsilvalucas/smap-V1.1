@@ -1,0 +1,9 @@
+8                                                 'Quantidade de bacias sub-modeladas
+CORUMBA1                                          'Corumba I                                                                                           
+CORUMBAIV                                         'Corumba IV                                                                                          
+EMBORCACAO                                        'Emborcacao                                                                                          
+ITUMBIARA                                         'Itumbiara                                                                                           
+NOVAPONTE                                         'Nova Ponte                                                                                          
+RVerde                                            'SMP - Abaixo do rio Verde                                                                           
+SDOFACAO                                          'Serra do Facao                                                                                      
+SSIMAO2                                           'SMP - São Simão                                                                                     

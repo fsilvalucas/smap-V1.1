@@ -1,0 +1,4 @@
+                      JURUMIRIM               PIRAJU            CHAVANTES      SALTO GRANDE CS            CANOAS II             CANOAS I                 MAUA             CAPIVARA            TAQUARUÇU               ROSANA             OURINHOS
+                            047                  048                  049                  050                  051                  052                  057                  061                  062                  063                  249
+                          TOTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL                TOTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL          INCREMENTAL
+29/02/2020               180.17                 4.40                91.16               165.47                12.97                27.65                81.30               256.55                83.86               196.60                 6.59

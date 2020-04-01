@@ -1,0 +1,6 @@
+5                                                 'Quantidade de bacias sub-modeladas
+Balsa                                             'Balsa_Sta_Maria                                                                                     
+Flor+Estra                                        'Florida_Estrada                                                                                     
+Itaipu                                            'Itaipu                                                                                              
+Ivinhema                                          'Ivinhema                                                                                            
+PTaquara                                          'Porto_Taquara                                                                                       
